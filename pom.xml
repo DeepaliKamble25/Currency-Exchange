@@ -6,7 +6,11 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.4</version>
+
+// this is done by Qaaa
+
 //this is done by DEV bbb
+
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.BikkadIT</groupId>
